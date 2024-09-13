@@ -1,0 +1,25 @@
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5); /* Optional: adds a semi-transparent background */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.overlay-text h1,
+.overlay-text p {
+  margin: 0;
+}

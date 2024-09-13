@@ -2,6 +2,7 @@
 layout: page
 title: about me
 permalink: /about/
+image: pic.jpg
 ---
 
 ## Language Experience
@@ -47,11 +48,13 @@ permalink: /about/
 - English Teaching Assistant - Lycée Sainte-Marie Des Champs, Toulouse (2019)
 - Teaching Assistant - University of Vermont Computer Science Department (2022-2024)
 - Assistant Language Teacher of English - Sapporo City Board of Education (2024-Current)
+- Minister of Fun - Sapporo City JETs (2024-Current)
 
 ## Certifications, Awards & Acknowledgements
 - TEFL Certification
 - 1st Place - [University of Vermont CS Fair 2023](https://www.uvm.edu/news/cems/2023-computer-science-fair), Advanced Programming category
 - Cowrote a rewrite of UVM's [CS 2300: Advanced Programming](https://catalogue.uvm.edu/undergraduate/courses/courselist/cs/)'s computer graphics module with a modernized framework, adopted in 2023.
+- Wrote a syllabus organizer for UVM professors with a web interface, adopted in 2024.
 
 ## Skills 
 # Technology
