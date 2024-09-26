@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "New posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign post_filename = post.path | split: '/' | last %}
+        {%- assign post_date = post_filename | split: '-' | slice: 0, 3 | join: '-' %}
+        {%- assign image_path = post_date | append: '/cover.jpg' %}
+        <a href="{{ post.url | relative_url }}" class="post-link-wrapper">
+          <div class="image-container-home">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ image_path }}" class="post-teaser" alt="{{ post.title | escape }}">
+            <div class="overlay-text">
+              <h3 class="post-title">
+                {{ post.title | escape }}
+              </h3>
+              <p class="post-meta">{{ post.date | date: date_format }}</p>
+            </div>
+          </div>
+        </a>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

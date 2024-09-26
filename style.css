@@ -9,6 +9,23 @@
   height: auto;
 }
 
+.post-link-wrapper {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.image-container-home {
+  position: relative;
+  height: 120px; /* Adjust the height as needed */
+  overflow: hidden;
+}
+
+.image-container-home img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .overlay-text {
   position: absolute;
   bottom: 10px;

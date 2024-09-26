@@ -2,7 +2,6 @@
 layout: post
 title: Arrival in Japan
 tags: japan, jet, travel
-image: 2024-08-10/cover.jpg
 ---
 
 &emsp;&emsp;It's been about two weeks now since I first arrived in Japan and headed to Sapporo. Time has seemed to pass by quite quickly since I first landed, but I am now beginning to settle in nicely. It’s nice to have a bit of free time between moving out of my apartment, traveling, participating in orientations, buying things for my new place and just getting over jet lag in general. Here is a recount of the events of my arrival in Japan on the Japan Exchange Teaching Program (JET).  

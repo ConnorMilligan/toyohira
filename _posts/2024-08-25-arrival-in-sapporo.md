@@ -2,7 +2,6 @@
 layout: post
 title: Arrival in Sapporo
 tags: japan, jet, travel
-image: 2024-08-25/cover.jpg
 ---
 
 # July 31st
