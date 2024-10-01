@@ -1,9 +1,10 @@
 ---
 layout: page
-title: about me
+title: About Me
 permalink: /about/
-image: pic.jpg
 ---
+
+![connor](/images/about/me.jpg "connor")
 
 ## Language Experience
 **English**: Native; 
