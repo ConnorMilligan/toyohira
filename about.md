@@ -38,9 +38,9 @@ permalink: /about/
 ## Schooling
 - Northport High School (-2017)
 - Rochester Institute of Technology (2017-2018)
-- institut Stralang (2018-2019)
+- Institut Stralang (2018-2019)
 - Institut Catholique de Toulouse (2019-2019)
-- University of Vermont (2020-2024)
+- University of Vermont [B.A. Linguistics] (2020-2024)
 
 ## Experience
 - Intern Programmer - Applied Visions (2016-2017)
@@ -52,6 +52,7 @@ permalink: /about/
 - Minister of Fun - Sapporo City JETs (2024-Current)
 
 ## Certifications, Awards & Acknowledgements
+- B.A. Linguistics - University of Vermont
 - TEFL Certification
 - 1st Place - [University of Vermont CS Fair 2023](https://www.uvm.edu/news/cems/2023-computer-science-fair), Advanced Programming category
 - Cowrote a rewrite of UVM's [CS 2300: Advanced Programming](https://catalogue.uvm.edu/undergraduate/courses/courselist/cs/)'s computer graphics module with a modernized framework, adopted in 2023.
